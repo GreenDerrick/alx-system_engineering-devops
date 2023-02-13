@@ -1,2 +1,2 @@
 #!/bin/bash
-gre
+cat -n 3 iacta
