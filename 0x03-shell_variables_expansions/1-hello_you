@@ -1,2 +1,2 @@
 #!/bin/bash
-a = whoami; printf "hello" + a + "\n"
+printf "hello" + whoami
