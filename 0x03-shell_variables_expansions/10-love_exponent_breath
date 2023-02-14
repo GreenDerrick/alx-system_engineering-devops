@@ -1,2 +1,2 @@
 #!/bin/bash
-BREATH=3 LOVE=5 echo $BREATH
+BREATH=4 LOVE=3 echo $BREATH^$LOVE
