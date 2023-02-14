@@ -1,2 +1,2 @@
 #!/bin/bash
-BREATH=3 LOVE=5 echo $BREATH * $LOVE
+BREATH=3 LOVE=5 echo $BREATH
