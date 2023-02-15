@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "HAt ze cherd" | tr A Z | tr c e
+tr A Z | tr c e
