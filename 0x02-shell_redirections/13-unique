@@ -1,2 +1,2 @@
 #!/bin/bash
-sort < uniq -u > sorted.txt
+cat ls -ls| sort |uniq -u
