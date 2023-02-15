@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -R | rm .js*
+find ../0x02-shell-redirections -type f -name ".js*" -delete
