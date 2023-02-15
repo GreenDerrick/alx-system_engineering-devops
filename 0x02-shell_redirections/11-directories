@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Rl |ls -1
+ls -Rl |wc -l
