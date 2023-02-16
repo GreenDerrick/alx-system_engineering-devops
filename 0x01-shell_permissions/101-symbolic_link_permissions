@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s _hello | chgrp vincent:staff
+ln -s _hello | chgrp -R vincent:staff _hello
